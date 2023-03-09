@@ -5,7 +5,7 @@ export default function TodoInput({ addTodo }) {
   return (
     <div>
       <input
-        placeholder="Enter your todo here"
+        placeholder="What do you want to do?!"
         value={text}
         onChange={(e) => setText(e.target.value)}
       ></input>
