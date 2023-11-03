@@ -20,4 +20,4 @@ MERN stack. This includes:
 
 * React
 
-* nodeJS 
+* nodeJS (installation package for npm)
