@@ -1,5 +1,6 @@
 # personal-project
 A full stack to do application. 
+
 In this personal project a user can:
 
 * create and add items to a list
